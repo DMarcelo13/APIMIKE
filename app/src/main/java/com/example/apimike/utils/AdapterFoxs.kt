@@ -44,5 +44,6 @@ class AdapterFoxs () : RecyclerView.Adapter<AdapterFoxs.ViewHolder>() {
         // Holds the TextView that will add each picture to
         val foxImage: ImageView = view.fox_image
         val sizeInfo: TextView = view.size_info
+
     }
 }

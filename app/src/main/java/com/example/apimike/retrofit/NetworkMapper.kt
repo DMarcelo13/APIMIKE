@@ -12,6 +12,7 @@ constructor(): EntityMapper<FoxNetworkEntity, Fox> {
             image = entity.image,
             link = entity.link,
 
+
         )
     }
 
